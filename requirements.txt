@@ -1,0 +1,12 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+flask>=3.0
+streamlit>=1.35
+matplotlib>=3.9
+seaborn>=0.13
+python-docx>=1.1
+nbformat>=5.10
+joblib>=1.4
+requests>=2.32
+Werkzeug>=3.0
